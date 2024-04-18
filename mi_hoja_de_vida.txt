@@ -1,1 +1,2 @@
 Hola! mi nombre es Gabriel Garcia, y soy estudiante de la carrera de Tecnologias de la Informacion de la UTMACH.
+Tengo experiencia con lenguajes WEB, como HTML, CSS y JavaScript.
